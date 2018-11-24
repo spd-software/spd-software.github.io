@@ -1,7 +1,7 @@
 # Site settings
 title: SPD SOLUTIONS
 email: info@spd-software.com
-description: > At SPD Solutions, our mission is making software development a worthy and high return investment for companies around the world.
+description: At SPD Solutions, our mission is making software development a worthy and high return investment for companies around the world.
 baseurl: "www.spd-software.com" # the subpath of your site, e.g. /blog/
 url: "www.spd-software.com" # the base hostname & protocol for your site
 
