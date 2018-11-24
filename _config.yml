@@ -1,5 +1,5 @@
 # Site settings
-title: "PSD Software"
+title: "SPD Software"
 email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
